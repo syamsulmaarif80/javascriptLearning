@@ -51,3 +51,6 @@ while (alive){
     work();
     repeat();
 }
+
+
+///Halo gaes semuanya 
